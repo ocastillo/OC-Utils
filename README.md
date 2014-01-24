@@ -7,3 +7,7 @@ These utilities came about because I wanted to simplify and also see how other f
 
   * oc-router.js: Simple router for your single page app.  This uses pushState and not hashtags.  Older browsers will simply reload the page.
   * oc-ajax.js: The name says it all.
+
+## Demo
+
+The demo is a simple node app so you can get an idea of how I use this utils.
